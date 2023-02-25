@@ -8,9 +8,12 @@ using Meroora_bejelento.Models.ViewModels;
 
 namespace MeterWeb.Controllers
 {
+    //elso commit hogy mukodik hahaha
+
     [Area("Admin")]
     public class MeroOraController : Controller
     {
+        private readonly int github;
         private readonly IUnitOfWork _unitOfWork;
         private readonly IWebHostEnvironment _hostEnvironment;
 
