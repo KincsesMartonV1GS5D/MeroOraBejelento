@@ -1,0 +1,24 @@
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\bin\Debug\net6.0\Meroora_bejelento.Utility.deps.json
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\bin\Debug\net6.0\Meroora_bejelento.Utility.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\bin\Debug\net6.0\ref\Meroora_bejelento.Utility.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\bin\Debug\net6.0\Meroora_bejelento.Utility.pdb
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.GeneratedMSBuildEditorConfig.editorconfig
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.AssemblyInfoInputs.cache
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.AssemblyInfo.cs
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.csproj.CoreCompileInputs.cache
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\ref\Meroora_bejelento.Utility.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.pdb
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.csproj.AssemblyReference.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\bin\Debug\net6.0\Meroora_bejelento.Utility.deps.json
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\bin\Debug\net6.0\Meroora_bejelento.Utility.dll
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\bin\Debug\net6.0\Meroora_bejelento.Utility.pdb
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.csproj.AssemblyReference.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.AssemblyInfoInputs.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.AssemblyInfo.cs
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.csproj.CoreCompileInputs.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.dll
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\refint\Meroora_bejelento.Utility.dll
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\Meroora_bejelento.Utility.pdb
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.Utility\obj\Debug\net6.0\ref\Meroora_bejelento.Utility.dll

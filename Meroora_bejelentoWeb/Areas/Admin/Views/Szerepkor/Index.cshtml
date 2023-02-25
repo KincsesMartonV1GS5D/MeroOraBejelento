@@ -1,0 +1,46 @@
+﻿@using Meroora_bejelento.Models
+@model IEnumerable<Szerepkor>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="contener p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h1 class="text-primary">Szerepkör</h1>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Szerepkor"asp-action="Upsert" class="btn btn-primary">
+                <i class="bg-info bi-plus-circle"></i>&nbsp; Szerepkör Létrehozás
+            </a>
+        </div>
+    </div>
+    <br /><br />
+
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Szerepkör</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-controller="Szerepkor" asp-action="Upsert" asp-route-id="@item.Id"
+                            class="btn btn-primary mx-2"> <i class="bg-info bi-pencil-square"></i>Módosítás</a>
+                            <a asp-controller="Szerepkor" asp-action="Delete" asp-route-id="@item.Id"
+                            class="btn btn-danger mx-2"> <i class="bi-trash-fill"></i>Törlés</a>
+                        </div>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>
+
+

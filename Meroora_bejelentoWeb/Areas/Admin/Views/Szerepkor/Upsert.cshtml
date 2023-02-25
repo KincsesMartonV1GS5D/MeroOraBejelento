@@ -1,0 +1,46 @@
+﻿@model Szerepkor
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="Id" hidden/>
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary"> Szerepkör @(Model.Id != 0 ? "Módosít" : "Létrehozás") </h2>
+            <hr />
+        </div>
+        @*<div asp-validation-summary="All"></div>*@
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" id="VName" class="form-control" />
+            @*<span asp-validation-for="Name" class="text-danger"></span>*@
+        </div>
+        @if (Model.Id!=0)
+        {
+            <button type="submit" class="btn btn-primary" style="width:150px">Módosítás</button>
+        }else{ 
+            <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">Létrehozás</button>
+        }
+        
+        <a asp-controller="Szerepkor" asp-action="Index" class="btn btn-secondary" style="width:150px">
+            Vissza a Szerepkörökhöz
+        </a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+    <partial Name="_ValidationScriptsPartial" />
+    }
+    <script>
+        function ValidateInput(){
+            if (document.getElementById("VName").value == "") {
+                Swal.fire({
+                    icon:'error',
+                    title: 'Oops...',
+                    text:'Adj meg nevet!',
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+}

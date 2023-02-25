@@ -1,0 +1,12 @@
+C:\_LEARN\VS22\Meter\Meter.Models\bin\Release\net6.0\Meter.Models.deps.json
+C:\_LEARN\VS22\Meter\Meter.Models\bin\Release\net6.0\Meter.Models.dll
+C:\_LEARN\VS22\Meter\Meter.Models\bin\Release\net6.0\ref\Meter.Models.dll
+C:\_LEARN\VS22\Meter\Meter.Models\bin\Release\net6.0\Meter.Models.pdb
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\Meter.Models.csproj.AssemblyReference.cache
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\Meter.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\Meter.Models.AssemblyInfoInputs.cache
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\Meter.Models.AssemblyInfo.cs
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\Meter.Models.csproj.CoreCompileInputs.cache
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\Meter.Models.dll
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\ref\Meter.Models.dll
+C:\_LEARN\VS22\Meter\Meter.Models\obj\Release\net6.0\Meter.Models.pdb

@@ -1,0 +1,51 @@
+﻿@model Meroora_bejelento.Models.ViewModels.FelhasznaloVM
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="Felhasznalo.Id" hidden/>
+    
+    
+    
+    <div class="row">
+        <div class="col-10">
+            <div class="border p-3 mt-4">
+                <div class="col-12 pb-2">
+                    <h2 class="text-primary"> Mérőóra @(Model.Felhasznalo.Id != 0 ? "Módosít" : "Létrehozás") </h2>
+                    <hr />
+                </div>
+                @*<div asp-validation-summary="All"></div>*@
+                <div class="mb-3">
+                    <label asp-for="Felhasznalo.Name"></label>
+                    <input asp-for="Felhasznalo.Name" class="form-control" />
+                    @*<span asp-validation-for="Name" class="text-danger"></span>*@
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Felhasznalo.Email">Email</label>
+                    <input asp-for="Felhasznalo.Email" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Felhasznalo.Telefon">Telefon</label>
+                    <input asp-for="Felhasznalo.Telefon" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Felhasznalo.SzerepkorId">Szerepkor</label>
+                    <select asp-for="Felhasznalo.SzerepkorId" asp-items="@Model.SzerepkorList" class="form-select">
+                        <option disabled selected>--Válassz típust--</option>
+                    </select>
+                    <span asp-validation-for="Felhasznalo.SzerepkorId" class="text-danger" />
+                </div>
+                @if (Model.Felhasznalo.Id != 0)
+                {
+                    <button type="submit" class="btn btn-primary" style="width:150px">Módosítás</button>
+                }
+                else
+                {
+                    <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">Létrehozás</button>
+                }
+
+                <a asp-controller="Felhasznalo" asp-action="Index" class="btn btn-secondary" style="width:150px">
+                    Vissza a Felhasználókhoz
+                </a>
+            </div>
+        </div>
+    </div>
+</form>

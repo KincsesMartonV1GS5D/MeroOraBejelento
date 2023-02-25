@@ -1,0 +1,34 @@
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.deps.json
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.runtimeconfig.json
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\ref\Meroora_bejelento.DataAccess.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.pdb
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.Models.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.Models.pdb
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.csproj.AssemblyReference.cache
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.AssemblyInfoInputs.cache
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.AssemblyInfo.cs
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.csproj.CoreCompileInputs.cache
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.csproj.CopyComplete
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\ref\Meroora_bejelento.DataAccess.dll
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.pdb
+c:\_LEARN\VS22\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.genruntimeconfig.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.deps.json
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.runtimeconfig.json
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.dll
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.DataAccess.pdb
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.Models.dll
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\bin\Debug\net6.0\Meroora_bejelento.Models.pdb
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.csproj.AssemblyReference.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.AssemblyInfoInputs.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.AssemblyInfo.cs
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.csproj.CoreCompileInputs.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.csproj.CopyComplete
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.dll
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\refint\Meroora_bejelento.DataAccess.dll
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.pdb
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\Meroora_bejelento.DataAccess.genruntimeconfig.cache
+D:\backup\Egyetem\szakdolgozat\MEROORA LEOLVASAS\PROJECT1\Meroora_bejelento\Meroora_bejelento.DataAccess\obj\Debug\net6.0\ref\Meroora_bejelento.DataAccess.dll

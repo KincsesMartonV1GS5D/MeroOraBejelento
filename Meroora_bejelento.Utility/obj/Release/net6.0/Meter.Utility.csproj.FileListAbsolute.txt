@@ -1,0 +1,12 @@
+C:\_LEARN\VS22\Meter\Meter.Utility\bin\Release\net6.0\Meter.Utility.deps.json
+C:\_LEARN\VS22\Meter\Meter.Utility\bin\Release\net6.0\Meter.Utility.dll
+C:\_LEARN\VS22\Meter\Meter.Utility\bin\Release\net6.0\ref\Meter.Utility.dll
+C:\_LEARN\VS22\Meter\Meter.Utility\bin\Release\net6.0\Meter.Utility.pdb
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\Meter.Utility.csproj.AssemblyReference.cache
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\Meter.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\Meter.Utility.AssemblyInfoInputs.cache
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\Meter.Utility.AssemblyInfo.cs
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\Meter.Utility.csproj.CoreCompileInputs.cache
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\Meter.Utility.dll
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\ref\Meter.Utility.dll
+C:\_LEARN\VS22\Meter\Meter.Utility\obj\Release\net6.0\Meter.Utility.pdb

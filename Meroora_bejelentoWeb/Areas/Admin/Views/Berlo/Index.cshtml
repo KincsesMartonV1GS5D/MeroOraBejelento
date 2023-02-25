@@ -1,0 +1,74 @@
+﻿@using Meroora_bejelento.Models
+@* 29 retrieve all companies*@
+@model IEnumerable<Berlo>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Bérlők</h1>
+
+
+@* 30 retrieve all companies*@
+
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                Név
+            </th>
+            <th>
+                E-mail
+            </th>
+            <th>
+                Bérlemény 
+            </th>
+            <th>
+                Szerződés kelte
+            </th>
+            <th>
+                Szerződés lejárata
+            </th>
+            <th>
+                Leolvasás kezdete
+            </th>
+            <th>
+                Leolvasás intervallum
+            </th>
+            <th>
+                Aktív
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+                <td width="20%">
+                    @obj.Name
+                </td>    
+                <td width="20%">
+                    @obj.Email
+                </td>    
+                <td width="20%">
+                    @obj.BermCim
+                </td>    
+                <td width="10%">
+                    @obj.SzerzKelte
+                </td>    
+                <td width="10%">
+                    @obj.SzerzLejarat
+                </td>    
+                <td width="10%">
+                    @obj.LeolvKezdonap
+                </td>    
+                <td width="10%">
+                    @obj.LeolvMaxNap
+                </td>    
+                <td width="30%">
+                    @obj.aktiv
+                </td>
+            </tr>
+        }
+        </tbody>
+</table>
+

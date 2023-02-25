@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4123c57-18fb-49d3-9a4c-06fe913b5270": {
+      "ProjectGuid": "b4123c57-18fb-49d3-9a4c-06fe913b5270",
+      "DisplayName": "MeterWeb",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9ba35fc9-f47f-4734-a886-2155be94aac5": {
+      "ProjectGuid": "9ba35fc9-f47f-4734-a886-2155be94aac5",
+      "DisplayName": "MeterDataAccess",
+      "ColorIndex": 1
+    },
+    "8aba47e8-4363-4e9e-ad0a-ca8cf12f0d00": {
+      "ProjectGuid": "8aba47e8-4363-4e9e-ad0a-ca8cf12f0d00",
+      "DisplayName": "Meter.Models",
+      "ColorIndex": 2
+    },
+    "8e5f5160-b1a2-4990-ac5e-b4194a27d0b1": {
+      "ProjectGuid": "8e5f5160-b1a2-4990-ac5e-b4194a27d0b1",
+      "DisplayName": "Meter.DataAccess",
+      "ColorIndex": 3
+    },
+    "86d48259-f79e-446a-a706-71c96a5c9ba7": {
+      "ProjectGuid": "86d48259-f79e-446a-a706-71c96a5c9ba7",
+      "DisplayName": "Meter.Utility",
+      "ColorIndex": 4
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 5
+    },
+    "f491c7d2-f95b-4af9-8193-bd44629b9d0e": {
+      "ProjectGuid": "f491c7d2-f95b-4af9-8193-bd44629b9d0e",
+      "DisplayName": "Meroora_bejelento.Models",
+      "ColorIndex": 6
+    },
+    "8b74e996-96c4-4272-b611-5df8525239a2": {
+      "ProjectGuid": "8b74e996-96c4-4272-b611-5df8525239a2",
+      "DisplayName": "Meroora_bejelento.Utility",
+      "ColorIndex": 7
+    },
+    "f909398d-9c77-454a-9830-a9bd8256110a": {
+      "ProjectGuid": "f909398d-9c77-454a-9830-a9bd8256110a",
+      "DisplayName": "Meroora_bejelentoWeb",
+      "ColorIndex": 8
+    },
+    "5647a749-1db3-4e98-8ad9-71ccf1f02039": {
+      "ProjectGuid": "5647a749-1db3-4e98-8ad9-71ccf1f02039",
+      "DisplayName": "Meroora_bejelento.DataAccess",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

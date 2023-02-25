@@ -1,0 +1,17 @@
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.csproj.AssemblyReference.cache
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.AssemblyInfoInputs.cache
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.AssemblyInfo.cs
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.csproj.CoreCompileInputs.cache
+C:\_LEARN\VS22\Meter\Meter.DataAccess\bin\Debug\net6.0\Meter.DataAccess.deps.json
+C:\_LEARN\VS22\Meter\Meter.DataAccess\bin\Debug\net6.0\Meter.DataAccess.runtimeconfig.json
+C:\_LEARN\VS22\Meter\Meter.DataAccess\bin\Debug\net6.0\Meter.DataAccess.dll
+C:\_LEARN\VS22\Meter\Meter.DataAccess\bin\Debug\net6.0\ref\Meter.DataAccess.dll
+C:\_LEARN\VS22\Meter\Meter.DataAccess\bin\Debug\net6.0\Meter.DataAccess.pdb
+C:\_LEARN\VS22\Meter\Meter.DataAccess\bin\Debug\net6.0\Meter.Models.dll
+C:\_LEARN\VS22\Meter\Meter.DataAccess\bin\Debug\net6.0\Meter.Models.pdb
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.csproj.CopyComplete
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.dll
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\ref\Meter.DataAccess.dll
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.pdb
+C:\_LEARN\VS22\Meter\Meter.DataAccess\obj\Debug\net6.0\Meter.DataAccess.genruntimeconfig.cache

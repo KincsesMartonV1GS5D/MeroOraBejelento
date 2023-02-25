@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\_TO-VIRTUAL</_PublishTargetUrl>
+    <History>True|2023-01-13T11:02:48.0483579Z;True|2023-01-05T18:04:12.4515512+01:00;True|2023-01-05T16:45:17.9724707+01:00;True|2023-01-05T15:19:56.9372783+01:00;True|2022-12-23T21:36:13.7322066+01:00;True|2022-12-23T21:27:48.1673261+01:00;True|2022-12-23T21:19:19.1586038+01:00;True|2022-12-23T20:41:37.3681325+01:00;False|2022-12-23T20:39:46.1594055+01:00;False|2022-12-23T20:39:15.0496200+01:00;False|2022-12-23T20:34:01.3561531+01:00;True|2022-10-27T15:43:08.5838576+02:00;True|2022-10-26T20:25:09.3711560+02:00;True|2022-10-26T18:45:52.6701019+02:00;True|2022-10-26T18:04:58.4914722+02:00;True|2022-10-26T17:57:49.3109444+02:00;True|2022-10-26T17:52:19.1478564+02:00;True|2022-10-26T17:44:55.3582729+02:00;True|2022-10-26T17:03:34.5604022+02:00;True|2022-10-26T16:50:44.1073445+02:00;True|2022-10-26T16:26:14.9184077+02:00;True|2022-10-26T16:25:00.3046733+02:00;True|2022-10-26T15:38:22.9920066+02:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=DIMENSION\SQLEXPRESS%3bDatabase=Meter%3bUser Id=sa%3bPassword=kgCDfw51AEbralma%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Meter.DataAccess.ApplicationDbContext">
+      <Value>Server=DIMENSION\SQLEXPRESS%3bDatabase=Meter%3bUser Id=sa%3bPassword=kgCDfw51AEbralma%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

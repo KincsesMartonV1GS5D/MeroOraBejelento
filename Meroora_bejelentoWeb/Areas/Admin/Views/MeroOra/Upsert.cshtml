@@ -1,0 +1,86 @@
+﻿@model Meroora_bejelento.Models.ViewModels.MeroOraVM
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="MeroOra.Id" hidden/>
+    <input asp-for="MeroOra.MintaFoto" hidden />
+    
+    
+    <div class="row">
+        <div class="col-10">
+            <div class="border p-3 mt-4">
+                <div class="col-12 pb-2">
+                    <h2 class="text-primary"> Mérőóra @(Model.MeroOra.Id != 0 ? "Módosít" : "Létrehozás") </h2>
+                    <hr />
+                </div>
+                @*<div asp-validation-summary="All"></div>*@
+                <div class="mb-3">
+                    <label asp-for="MeroOra.Name"></label>
+                    <input asp-for="MeroOra.Name" class="form-control" />
+                    @*<span asp-validation-for="Name" class="text-danger"></span>*@
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MeroOra.Gyariszam">Gyáriszám</label>
+                    <input asp-for="MeroOra.Gyariszam" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MeroOra.MertekEgyseg">MertékEgység</label>
+                    <input asp-for="MeroOra.MertekEgyseg" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MeroOra.EgysegAr">EgysegÁr</label>
+                    <input asp-for="MeroOra.EgysegAr" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MeroOra.MintaFoto"></label>
+                    <input type="file" id="uploadBox" name="file" class="form-control" />
+
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MeroOra.TipusId">Mérőóra Típus</label>
+                    <select asp-for="MeroOra.TipusId" asp-items="@Model.MeroOraTipusList" class="form-select">
+                        <option disabled selected>--Válassz típust--</option>
+                    </select>
+                    <span asp-validation-for="MeroOra.TipusId" class="text-danger" />
+                </div>
+                @if (Model.MeroOra.Id != 0)
+                {
+                    <button type="submit" class="btn btn-primary" style="width:150px">Módosítás</button>
+                }
+                else
+                {
+                    <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">Létrehozás</button>
+                }
+
+                <a asp-controller="MeroOra" asp-action="Index" class="btn btn-secondary" style="width:150px">
+                    Vissza a Merőórákhoz
+                </a>
+            </div>
+        </div>
+        <div class="col-2 pt-4">
+            <img src="@Model.MeroOra.MintaFoto"
+            width="100%" style="border-radius:5px;border:1px solid #bbb9b"/>
+        </div>
+    </div>
+</form>
+
+@section Scripts
+{
+    @{
+    <partial Name="_ValidationScriptsPartial" />
+    }
+    <script>
+        function ValidateInput()
+        {
+            if (document.getElementById("uploadBox").value == "") 
+            {
+                Swal.fire({
+                    icon:'error',
+                    title: 'Oops...',
+                    text:'Adjon meg fajlt!',
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+}
